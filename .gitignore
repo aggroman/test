@@ -6,4 +6,3 @@ git remote add origin https://github.com/aggroman/test.git
 git push -u origin master
 
 git remote add origin https://github.com/aggroman/test.git
-git push -u origin master
